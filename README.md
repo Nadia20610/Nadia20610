@@ -2,7 +2,7 @@
 
 <h1><b>Hello There 👋🏻 , I'm Nadia Ahmed</b></h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=2fd7e0&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Passionate+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=b80000&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Passionate+Learner)
 
    
 </div>
