@@ -54,8 +54,9 @@
 
 ## 🌐 Connect with Me:
 
-<div>
 **"I’m always eager to collaborate on innovative projects and explore new ideas in full-stack development. Feel free to connect with me!"**
+
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadia-ahmed123)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadia.ahmed.mohamed20@gmail.com)  
 
