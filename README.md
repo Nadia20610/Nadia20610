@@ -1,6 +1,6 @@
 <div align="center">
 
-<h3>Hello There 👋🏻 , I'm Nadia Ahmed </h3>
+<h1><b>Hello There 👋🏻 , I'm Nadia Ahmed</b></h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=2fd7e0&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Passionate+Learner)
 
