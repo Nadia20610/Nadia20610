@@ -11,14 +11,10 @@
 
 
 # 💫 About Me:
-🚀 Full-Stack Developer with a strong foundation in web development and system administration.
-
-💡 Specializing in building scalable and high-performance applications using modern technologies.
-
-🔥 Experienced in both frontend and backend development.
-
-📚 Passionate about continuous learning and staying updated with the latest industry trends.
-
+🚀 Full-Stack Developer with a strong foundation in web development and system administration. <br/>
+💡 Specializing in building scalable and high-performance applications using modern technologies. <br/>
+🔥 Experienced in both frontend and backend development. <br/>
+📚 Passionate about continuous learning and staying updated with the latest industry trends. <br/>
 🎯 Committed to delivering efficient and innovative solutions for real-world problems.
 
 
