@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying<br>
+A passionate fullstack developer<br>
 
 
 ## 🌐 Socials:
