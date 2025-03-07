@@ -54,7 +54,7 @@
 
 ## 🌐 Connect with Me:
 
-**"I’m always eager to collaborate on innovative projects and explore new ideas in full-stack development. Feel free to connect with me!"**
+***I’m always eager to collaborate on innovative projects and explore new ideas in full-stack development. Feel free to connect with me!***
 
 <div>
 
