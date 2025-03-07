@@ -2,7 +2,7 @@
 
 <h3>Hello There 👋🏻 , I'm Nadia Ahmed </h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=black&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Passionate+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=red&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Passionate+Learner)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadia.ahmed.mohamed20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nadia-ahmed123)
